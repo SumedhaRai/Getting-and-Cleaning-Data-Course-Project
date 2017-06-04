@@ -1,5 +1,5 @@
 
-### run_analysis.R It downloads the dataset, unzips it to a folder does the following steps:
+### The script run_analysis.R It downloads the dataset, unzips it to a folder does the following steps:
 
 * Combines all of train and test datasets, 
 * Assigns the variable names/column names to the above dataset from features text file
