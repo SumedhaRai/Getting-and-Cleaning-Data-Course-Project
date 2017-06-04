@@ -8,7 +8,7 @@
 * Combines all the columns from train and test datasets, subjects and activity labels
 * Joins the above data frame with acivity data frame to get the activity text
 * Calculates the mean for all the columns grouping by activity and subject
-
+* Writes the final average data to finaldata.txt
 
 ### VARIABLE NAMES
 
